@@ -16,14 +16,13 @@ This repository contains my practice projects, experiments, and exercises in **d
 - **Exploratory Data Analysis (EDA)** – Understanding datasets through summary statistics and visualizations.
 - **Data Preprocessing** – Cleaning, transforming, and preparing data for modeling.
 - **Machine Learning Models** – Experimenting with classification, regression, and clustering algorithms.
-- **Visualization** – Using Matplotlib, Seaborn, and Power BI to represent insights.
+- **Visualization** – Using Matplotlib, Seaborn
 
 ---
 
 ## 🛠 Tech Stack
 - **Python** – Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Jupyter Notebook** – Interactive coding and visualization
-- **Power BI** – Dashboard building and interactive reports
 
 ---
 
